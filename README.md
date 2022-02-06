@@ -1,2 +1,4 @@
 # to-do-list
-To Do List App with the use of Mongoose, MongoDB, Express, and basic Frontend Tech Stack
+Full Deployment of Application at https://polar-shore-55526.herokuapp.com/
+To Do List App with the use of Mongoose, MongoDB,  Express, and EJS.
+
